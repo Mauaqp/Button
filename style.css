@@ -1,0 +1,31 @@
+* {
+    margin: 8px;
+}
+.busqueda {
+    font-size: medium;
+    color:rgb(17, 155, 157);
+    border-color: rgb(17, 155, 157);
+    border-radius: 20px;
+    width: 150px;
+    border-style: groove;
+}
+.cruz{
+    font-size: xx-large;
+    text-align: center;
+    vertical-align:middle;
+    color:white;
+    background-color: rgb(0, 209, 178);
+    border-style: hidden;
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.crearCuenta{
+    color:white;
+    background-color: rgb(43, 120, 228);
+    border-color: black;
+    box-shadow: 2px 2px 2px black;
+    width: 200px;
+    padding: 8px;
+}
